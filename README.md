@@ -1,2 +1,7 @@
-# odev1
-Hafta 3 Html Nedir Ödev 1
+# Deneme
+
+## Hafta 3 Ödev 1 HTML Nedir ?
+
+Verilen gif dosyasına uygun şekilde ödev tamamlandı.
+
+[Patika Profil Linkim](https://app.patika.dev/bozkurtcagri)
